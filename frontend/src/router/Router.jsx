@@ -19,7 +19,7 @@ const Router = () => {
         {/* <Route path="/instructions" element={<Instructions />} />
         <Route path="/how-to-apply" element={<HowToApply />} /> */}
         <Route path="/login" element={<Login />} />
-
+{/*  */}
 
         <Route path="/contact" element={<Contact />} />
         <Route path="/termscondition" element={<Terms_condition />} />
