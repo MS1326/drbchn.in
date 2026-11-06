@@ -1,0 +1,30 @@
+.custom-nav {
+    background-color: #222222;
+    padding: 4px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.custom-nav .nav-link {
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    font-weight: 500;
+    /* padding: 10px 15px; */
+    transition: color 0.3s, background-color 0.3s;
+    border-radius: 5px;
+    text-transform: uppercase;
+    border-right: 1px solid gray;
+    border-left: 1px solid gray;
+    margin-right: 5px;
+}
+
+.custom-nav .nav-link:hover {
+    color: #fff;
+    background-color: cornflowerblue;
+    text-decoration: none;
+}
+
+.custom-nav .nav-link.active {
+    color: #fff;
+    background-color: #0056b3;
+    font-weight: 700;
+}

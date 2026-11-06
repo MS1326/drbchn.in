@@ -1,0 +1,35 @@
+.drb-header {
+    border: none;
+    background-color: #005ed2;
+}
+
+.chead {
+    border: none !important;
+    background-color: transparent;
+}
+
+.TN_Logo {
+    max-height: 120px;
+    object-fit: contain;
+    margin-top: 2%;
+}
+
+.Right_Logo {
+    max-height: 115px;
+    object-fit: contain;
+}
+
+.text {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+.data {
+    font-size: 27px;
+}
+
+.data1 {
+    font-size: larger;
+}
